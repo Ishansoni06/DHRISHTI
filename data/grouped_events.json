@@ -1,0 +1,74 @@
+[
+    {
+        "object": "person",
+        "start_frame": 33,
+        "end_frame": 78,
+        "duration_frames": 46,
+        "detection_count": 35,
+        "avg_confidence": 0.7293
+    },
+    {
+        "object": "person",
+        "start_frame": 132,
+        "end_frame": 160,
+        "duration_frames": 29,
+        "detection_count": 14,
+        "avg_confidence": 0.5958
+    },
+    {
+        "object": "person",
+        "start_frame": 175,
+        "end_frame": 184,
+        "duration_frames": 10,
+        "detection_count": 10,
+        "avg_confidence": 0.695
+    },
+    {
+        "object": "person",
+        "start_frame": 217,
+        "end_frame": 259,
+        "duration_frames": 43,
+        "detection_count": 33,
+        "avg_confidence": 0.6749
+    },
+    {
+        "object": "person",
+        "start_frame": 284,
+        "end_frame": 294,
+        "duration_frames": 11,
+        "detection_count": 4,
+        "avg_confidence": 0.5174
+    },
+    {
+        "object": "person",
+        "start_frame": 400,
+        "end_frame": 418,
+        "duration_frames": 19,
+        "detection_count": 17,
+        "avg_confidence": 0.7384
+    },
+    {
+        "object": "person",
+        "start_frame": 466,
+        "end_frame": 490,
+        "duration_frames": 25,
+        "detection_count": 25,
+        "avg_confidence": 0.7361
+    },
+    {
+        "object": "toothbrush",
+        "start_frame": 120,
+        "end_frame": 193,
+        "duration_frames": 74,
+        "detection_count": 70,
+        "avg_confidence": 0.7193
+    },
+    {
+        "object": "toothbrush",
+        "start_frame": 218,
+        "end_frame": 252,
+        "duration_frames": 35,
+        "detection_count": 30,
+        "avg_confidence": 0.5954
+    }
+]
